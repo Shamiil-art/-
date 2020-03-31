@@ -1,0 +1,221 @@
+body{font-family: 'Open Sans', sans-serif;}
+.a6200{
+    margin-right: 200px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+li{
+    margin: 25px;
+    display: inline;
+    font-family:шрифт поставь 
+  }
+   .a6100{
+     margin-left: 150px;
+     float: left;
+   }
+  .a6200{
+    margin-right: 200px;
+    font-size: 15px;
+    margin-top: 5px;
+    
+  }
+  .a6200{
+    color: rgb(156, 156, 156);
+    float: right;
+    font-family: monospace;
+    display: inline-flex;
+  }
+  li:hover{
+    opacity: 1;
+    color: rgb(224, 127, 48);
+    cursor: pointer;
+    
+  
+  }
+  .a6400{
+    box-sizing: border-box;
+    width: 450px;
+    height: 400px;
+    float: left;
+    margin-left: 150px;
+    margin-top: 100px;
+  }
+  .a72 {
+    background-color:white;
+    border:  rgb(209, 209, 209) 1px solid;
+    border-radius: 10px;
+    color: rgb(150, 133, 133);
+    text-align: left;
+  }
+  .a72{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin: 4px 2px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    padding: 20px 95px;
+    margin-top: 45px;
+  }
+ 
+  .mark2{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin: 4px 2px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    padding: 20px 15px;
+    margin-top: 45px;
+  }
+  .mark3{
+    margin-right: 100px;
+    margin-top: 25px;
+    float: right;
+    
+  }
+  .mark2 {
+    background-color: rgb(218, 44, 44);
+    border: rgb(209, 209, 209) 1px solid;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+  }
+  .a6600{
+    font-family: 'Open Sans', sans-serif; 
+  font-size: 60px;
+  margin-top: 5px;
+  color: rgb(53, 58, 121);
+  
+  }
+  .a6700{
+  font-size: 15px;
+  font-family: 'Baloo Thambi 2', cursive;
+  font-weight: bold;
+  margin-top: -15px;
+  color: rgb(83, 82, 124);
+  }
+  .sony{
+    float: inline-start;
+    
+    
+  }
+  .a7{float: left;}
+  .a722{float: right;} 
+  .a6300{
+    background-color:rgb(235, 74, 74);
+    border: rgb(209, 209, 209) 1px solid;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    padding: 45px 32px;
+    text-align: center;
+  }
+ 
+  .camera{
+    width: 1000px;
+   height: 800px;
+    margin: 0 auto;
+  }
+  .fuji8{
+  margin: 0 auto;
+  text-align: center;
+  font-family:'Baloo Thambi 2', cursive;
+  font-family:'Baloo Thambi 2', cursive;
+  font-family:Arial;  
+  font-size: 40px;
+  margin-top: 5px;
+  color: rgb(53, 58, 121);
+  
+  }
+  .canon{
+    font-size: 15px;
+  font-family: 'Baloo Thambi 2', cursive;;
+  margin-top: 15px;
+  color: rgb(83, 82, 124);
+  text-align: center;
+  }
+  
+  .fuji{
+    
+  margin-top: 100px;
+  
+    
+  }
+  .Nikon2{
+    margin: 0 auto;
+    font-family:'Baloo Thambi 2', cursive;
+    font-family:'Baloo Thambi 2', cursive;
+    font-family:Arial;  
+    font-size: 30px;
+    margin-top: 5px;
+    color: rgb(53, 58, 121);
+  }
+  .Nikon3{
+    font-size: 15px;
+    font-family: 'Baloo Thambi 2', cursive;;
+    margin-top: 15px;
+    color: rgb(83, 82, 124);
+    
+  }
+  .jojo{
+    margin: 0 auto;
+    font-family:'Baloo Thambi 2', cursive;
+    font-family:'Baloo Thambi 2', cursive;
+    font-family:Arial;  
+    font-size: 30px;
+    margin-top: 5px;
+    color: rgb(53, 58, 121);
+  }
+  .nogame{
+    font-size: 15px;
+  font-family: 'Baloo Thambi 2', cursive;;
+  margin-top: 15px;
+  color: rgb(83, 82, 124);
+  }
+  
+  .pop{
+    margin: 0 auto;
+    font-family:'Baloo Thambi 2', cursive;
+    font-family:'Baloo Thambi 2', cursive;
+    font-family:Arial;  
+    font-size: 30px;
+    margin-top: 5px;
+    color: rgb(53, 58, 121);
+  }
+  .finish{
+    font-size: 15px;
+  font-family: 'Baloo Thambi 2', cursive;;
+  margin-top: 15px;
+  color: rgb(83, 82, 124);
+  }
+  .Nikon1{
+    width: 300px;
+    float: left;
+    margin-left: 30px;
+  }
+  .Nikol{
+    width: 300px;
+    float: left;
+    margin-left: 30px;
+  }
+  .gg{
+    width: 300px;
+    float: right;
+    
+  } 
+  .D5{
+    width: 1000px;
+    height: 200px;
+  }
+  
+  .a6300{
+    display: inline-block;
+    font-size: 13px;
+    margin: 4px 2px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+    
+  }
+  
